@@ -80,7 +80,7 @@ export default function PizzaFerm() {
                       36h
                     </td>
                   </tr>
-                  <tr className="bg-gray-50">
+                  <tr>
                     <td className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
                       230-280 / 1
                     </td>
@@ -108,7 +108,7 @@ export default function PizzaFerm() {
                       48-72h
                     </td>
                   </tr>
-                  <tr className="bg-gray-50">
+                  <tr>
                     <td className="whitespace-nowrap py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6">
                       340-400 / 2
                     </td>
