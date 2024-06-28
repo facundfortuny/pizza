@@ -12,7 +12,7 @@ export default function Header() {
             alt="Picture of the author"
           />
           <h1 className="font-mono text-3xl font-bold sm:text-center sm:text-3xl pt-2">
-            Pizza Dough Caculator
+            Pizza Dough Calculator
           </h1>
         </div>
       </div>
